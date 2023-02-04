@@ -1,0 +1,8 @@
+.bg-img{
+    background-image: url(" https://wallpaperaccess.com/full/12313.jpg");
+    
+    background-size: 10%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: 20% 70%;
+}
